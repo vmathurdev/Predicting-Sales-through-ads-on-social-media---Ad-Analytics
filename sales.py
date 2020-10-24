@@ -1,13 +1,13 @@
-ALGORITHM WORKING
+#ALGORITHM WORKING
 
 
 
-Step.1)Choose the number K of neighbours
-Step.2)Take the K nearest neighbours of the new data point, according to Euclidean Distance
-Step.3)Among these K neighbours, count the number of data points in each category
-Step.4)Assign the new data point to the category where you counted the most neighbours
-......Now your Model is Ready!!
-"""
+#Step.1)Choose the number K of neighbours
+#Step.2)Take the K nearest neighbours of the new data point, according to Euclidean Distance
+#Step.3)Among these K neighbours, count the number of data points in each category
+#Step.4)Assign the new data point to the category where you counted the most neighbours
+#Now the Model is Ready!!
+
 
 # Importing the libraries
 import numpy as np
