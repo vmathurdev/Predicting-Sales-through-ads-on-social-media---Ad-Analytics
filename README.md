@@ -1,4 +1,4 @@
-# Predicting-Sales-through-ads-on-social-media---Ad-Analytics
+# Predicting-Sales-through-ads-on-social-media---Ad-Analytics using KNN
 Advertisement Analytics using Python
 In simpler words we tell whether a user on Social Networking site after clicking the ad's displayed on the website,
 end's up buying the product or not. This could be really helpful for the company selling the product.
